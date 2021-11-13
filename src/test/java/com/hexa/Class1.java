@@ -45,8 +45,7 @@ public class Class1 {
 	}
 
 	private void india() {
-		// TODO Auto-generated method stub
-
+		
 	}
 	
 	private void australia() {
@@ -58,4 +57,18 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void method30() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method31() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method33() {
+		// TODO Auto-generated method stub
+
+	}
 }
+
