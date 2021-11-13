@@ -58,4 +58,16 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	private void method55() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method66() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method77() {
+		// TODO Auto-generated method stub
+
+	}
 }
