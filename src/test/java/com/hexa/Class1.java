@@ -45,8 +45,7 @@ public class Class1 {
 	}
 
 	private void india() {
-		// TODO Auto-generated method stub
-
+		System.out.println("India");
 	}
 	
 	private void australia() {
