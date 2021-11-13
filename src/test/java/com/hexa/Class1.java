@@ -31,6 +31,18 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	private void method7() {
+		// TODO Auto-generated method stub
+	
+	}
+	private void method8() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method9() {
+		// TODO Auto-generated method stub
+
+	}
 
 	private void india() {
 		// TODO Auto-generated method stub
@@ -46,5 +58,4 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
-	
 }
