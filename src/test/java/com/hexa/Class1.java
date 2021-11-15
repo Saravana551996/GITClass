@@ -2,44 +2,56 @@ package com.hexa;
 
 public class Class1 {
 	
-	private void method1() {
+	public void method1() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void method2() {
+	public void method2() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void method3() {
+	public void method3() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void method4() {
+	public void method4() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void method5() {
+	public void method5() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void method6() {
+	public void method6() {
 		// TODO Auto-generated method stub
 
 	}
-	private void method7() {
+	public void method7() {
 		// TODO Auto-generated method stub
 	
 	}
-	private void method8() {
+	public void method8() {
 		// TODO Auto-generated method stub
 
 	}
-	private void method9() {
+	public void method9() {
+		// TODO Auto-generated method stub
+
+	}
+	public void methodA() {
+		// TODO Auto-generated method stub
+
+	}
+	public void methodB() {
+		// TODO Auto-generated method stub
+
+	}
+	public void methodC() {
 		// TODO Auto-generated method stub
 
 	}

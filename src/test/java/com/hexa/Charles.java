@@ -2,15 +2,15 @@ package com.hexa;
 
 public class Charles {
 
-	private void methodA() {
+	public void methodA() {
 		// TODO Auto-generated method stub
 
 	}
-	private void methodB() {
+	public void methodB() {
 		// TODO Auto-generated method stub
 
 	}
-	private void methodC() {
+	public void methodC() {
 		// TODO Auto-generated method stub
 
 	}
