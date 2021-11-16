@@ -58,4 +58,17 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	private void helsinki() {
+		// TODO Auto-generated method stub
+
+	}
+	private void berlin() {
+		// TODO Auto-generated method stub
+
+	}
+	private void tokyo() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
